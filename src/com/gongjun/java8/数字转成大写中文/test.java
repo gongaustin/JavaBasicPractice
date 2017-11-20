@@ -3,9 +3,12 @@ package com.gongjun.java8.数字转成大写中文;
 import java.math.BigDecimal;
 
 /**
- * 数字转换为汉语中人民币的大写
- * @author gongj
- * @create 2017-08-13
+ * Created with IntelliJ IDEA
+ * Description:
+ * Author:GongJun
+ * Date:2017/9/7
+ * Time:14:47
+ * Chinawiserv Technologies Co., Ltd.
  */
 public class test {
     /**
