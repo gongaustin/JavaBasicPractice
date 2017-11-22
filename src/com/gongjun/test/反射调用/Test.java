@@ -1,4 +1,4 @@
-package com.gongjun.java8.反射调用;
+package com.gongjun.test.反射调用;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
@@ -15,7 +15,7 @@ import java.lang.reflect.Method;
 public class Test {
     public static void main(String[] args) {
         try {
-            Class clazz = Class.forName("com.gongjun.java8.反射调用.Person");
+            Class clazz = Class.forName("com.gongjun.test.反射调用.Person");
             Field[] fields = clazz.getDeclaredFields();
             for (int i = 0; i < fields.length; i++) {
                 System.out.println(fields[i].getName());

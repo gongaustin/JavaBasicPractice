@@ -1,4 +1,4 @@
-package com.gongjun.java8.Java数据类型;
+package com.gongjun.test.Java数据类型;
 
 /**
  * Created with IntelliJ IDEA

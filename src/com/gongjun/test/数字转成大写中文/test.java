@@ -1,4 +1,4 @@
-package com.gongjun.java8.数字转成大写中文;
+package com.gongjun.test.数字转成大写中文;
 
 import java.math.BigDecimal;
 

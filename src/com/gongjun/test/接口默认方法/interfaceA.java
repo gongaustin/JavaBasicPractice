@@ -1,4 +1,4 @@
-package com.gongjun.java8.接口默认方法;
+package com.gongjun.test.接口默认方法;
 
 /**
  * Created with IntelliJ IDEA

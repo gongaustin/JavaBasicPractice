@@ -1,4 +1,4 @@
-package com.gongjun.java8.多线程;
+package com.gongjun.test.多线程;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

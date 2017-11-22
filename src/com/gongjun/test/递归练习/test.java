@@ -1,4 +1,4 @@
-package com.gongjun.java8.递归练习;
+package com.gongjun.test.递归练习;
 /**
  * Created with IntelliJ IDEA
  * Description:

@@ -1,4 +1,4 @@
-package com.gongjun.java8.反射调用;
+package com.gongjun.test.反射调用;
 
 /**
  * Created with IntelliJ IDEA

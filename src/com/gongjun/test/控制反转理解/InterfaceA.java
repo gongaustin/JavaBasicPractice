@@ -1,4 +1,4 @@
-package com.gongjun.java8.控制反转理解;
+package com.gongjun.test.控制反转理解;
 
 /**
  * Created with IntelliJ IDEA

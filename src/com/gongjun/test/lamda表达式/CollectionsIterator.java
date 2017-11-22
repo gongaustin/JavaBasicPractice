@@ -1,4 +1,4 @@
-package com.gongjun.java8.lamda表达式;
+package com.gongjun.test.lamda表达式;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package com.gongjun.java8.删除重复的数据;
+package com.gongjun.test.删除重复的数据;
 
 /**
  * Created with IntelliJ IDEA
