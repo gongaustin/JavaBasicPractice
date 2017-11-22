@@ -3,6 +3,7 @@ package com.gongjun.test.反射调用;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
+import java.util.Arrays;
 
 /**
  * Created with IntelliJ IDEA
@@ -17,14 +18,10 @@ public class Test {
         try {
             Class clazz = Class.forName("com.gongjun.test.反射调用.Person");
             Field[] fields = clazz.getDeclaredFields();
-            for (int i = 0; i < fields.length; i++) {
-                System.out.println(fields[i].getName());
-            }
+            Arrays.stream(fields).forEach(field -> System.out.println("属性为："+field));
             System.out.println("------------------------------");
             Method[] methods = clazz.getDeclaredMethods();
-            for (int i = 0; i < methods.length; i++) {
-                System.out.println(methods[i].getName());
-            }
+            Arrays.stream(methods).forEach(method -> System.out.println("方法为："+method));
             Constructor constructorOne = clazz.getDeclaredConstructor(String.class,Integer.class,String.class);
             Constructor constructorTwo = clazz.getDeclaredConstructor();
             Object instanceOne = constructorOne.newInstance("张三",22,"成都市");
