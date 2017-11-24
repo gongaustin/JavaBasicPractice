@@ -1,5 +1,7 @@
 package com.gongjun.test.Java数据类型;
 
+import java.util.Arrays;
+
 /**
  * Created with IntelliJ IDEA
  * Description:
@@ -30,22 +32,9 @@ public class test {
 
     public static void main(String[] args) {
 
-        System.out.println("a:"+a);
-        System.out.println("b:"+b);
-        System.out.println("c:"+c);
-        System.out.println("d:"+d);
-        System.out.println("e:"+e);
-        System.out.println("f:"+f);
-        System.out.println("g:"+g);
-        System.out.println("h:"+h);
+        Arrays.asList(a, b, c, d, e, f, g, h).stream().forEach(System.out::println);
 
-        System.out.println("A:"+A);
-        System.out.println("B:"+B);
-        System.out.println("C:"+C);
-        System.out.println("D:"+D);
-        System.out.println("E:"+E);
-        System.out.println("F:"+F);
-        System.out.println("G:"+G);
-        System.out.println("H:"+H);
+        Arrays.asList(A, B, C, D, E, F, G, H).stream().forEach(System.out::println);
+
     }
 }
