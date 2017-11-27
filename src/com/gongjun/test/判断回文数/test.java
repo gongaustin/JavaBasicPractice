@@ -17,7 +17,7 @@ public class test {
         System.out.println("请输入一个数字:");
         while (true) {
             String str = scanner.nextLine();
-            if ("exit".equals(str)) return;
+            if ("exit".equals(str) || "".equals(str.trim())) return;
             char[] chars = str.toCharArray();
             boolean flag = true;
             for (int i = 0; i < chars.length / 2; i++) {
