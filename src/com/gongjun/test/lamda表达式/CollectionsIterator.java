@@ -45,7 +45,7 @@ public class CollectionsIterator {
 
         String s = list.stream().map(e -> e + "test").reduce((sum, e) -> sum + e).get();
 
-        System.out.println(s);
+        System.out.println("s:"+s);
         /**
          * 对String list操作
          * */

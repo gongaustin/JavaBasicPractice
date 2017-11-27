@@ -36,5 +36,18 @@ public class test {
 
         Arrays.asList(A, B, C, D, E, F, G, H).stream().forEach(System.out::println);
 
+        h = 127;
+
+        System.out.println(h);
+
+        c = 1;
+
+        //直接写成c=c+1是不能编译通过的，需要显示转换为short类型
+        c = (short) (c + 1);
+
+        c += 1;
+
+        System.out.println(c);
+
     }
 }
