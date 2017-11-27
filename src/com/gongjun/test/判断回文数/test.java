@@ -19,13 +19,11 @@ public class test {
             String str = scanner.nextLine();
             if ("exit".equals(str)) return;
             char[] chars = str.toCharArray();
-            boolean flag = false;
+            boolean flag = true;
             for (int i = 0; i < chars.length / 2; i++) {
                 if (chars[i] != chars[chars.length - 1 - i]) {
                     flag = false;
                     break;
-                } else {
-                    flag = true;
                 }
             }
             if (flag) System.out.println(str + "是回文数");
