@@ -10,7 +10,6 @@ import java.io.IOException;
  * Author:GongJun
  * Date:2018/3/12
  * Time:17:14
- * Chinawiserv Technologies Co., Ltd.
  */
 public class IoTest {
     public static void main(String args[]) {

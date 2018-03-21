@@ -6,7 +6,6 @@ package com.gongjun.test.多线程;
  * Author:GongJun
  * Date:2018/3/14
  * Time:14:47
- * Chinawiserv Technologies Co., Ltd.
  */
 
 /**

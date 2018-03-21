@@ -12,7 +12,6 @@ import java.util.stream.Collectors;
  * Author:GongJun
  * Date:2017/11/13
  * Time:15:02
- * Chinawiserv Technologies Co., Ltd.
  */
 public class CollectionsIterator {
     @Test

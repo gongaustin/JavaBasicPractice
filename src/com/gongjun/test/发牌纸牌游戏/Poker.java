@@ -6,7 +6,6 @@ package com.gongjun.test.发牌纸牌游戏;
  * Author:GongJun
  * Date:2018/3/8
  * Time:17:35
- * Chinawiserv Technologies Co., Ltd.
  */
 public class Poker {
 

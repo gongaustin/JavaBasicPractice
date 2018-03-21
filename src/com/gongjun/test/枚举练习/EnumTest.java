@@ -10,7 +10,6 @@ import java.util.Scanner;
  * Author:GongJun
  * Date:2018/3/7
  * Time:15:36
- * Chinawiserv Technologies Co., Ltd.
  */
 public class EnumTest {
 

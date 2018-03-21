@@ -8,7 +8,6 @@ import org.junit.jupiter.api.Test;
  * Author:GongJun
  * Date:2018/3/12
  * Time:10:04
- * Chinawiserv Technologies Co., Ltd.
  */
 public class ClassD {
     String a = "a";

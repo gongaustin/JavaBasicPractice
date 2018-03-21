@@ -8,7 +8,6 @@ import java.util.Scanner;
  * Author:GongJun
  * Date:2017/11/27
  * Time:10:37
- * Chinawiserv Technologies Co., Ltd.
  */
 
 public class test {

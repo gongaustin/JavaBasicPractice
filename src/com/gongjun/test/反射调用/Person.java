@@ -6,7 +6,6 @@ package com.gongjun.test.反射调用;
  * Author:GongJun
  * Date:2017/11/6
  * Time:10:41
- * Chinawiserv Technologies Co., Ltd.
  */
 public class Person {
     private String name;

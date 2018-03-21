@@ -13,7 +13,6 @@ import java.util.List;
  * Author:GongJun
  * Date:2018/3/13
  * Time:15:37
- * Chinawiserv Technologies Co., Ltd.
  */
 public class LambdaTest {
 

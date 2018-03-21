@@ -8,7 +8,6 @@ import java.math.BigDecimal;
  * Author:GongJun
  * Date:2017/9/7
  * Time:14:47
- * Chinawiserv Technologies Co., Ltd.
  */
 public class test {
     /**

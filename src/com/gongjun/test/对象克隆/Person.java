@@ -8,7 +8,6 @@ import java.io.Serializable;
  * Author:GongJun
  * Date:2018/3/9
  * Time:10:49
- * Chinawiserv Technologies Co., Ltd.
  */
 public class Person implements Serializable {
     private static final long serialVersionUID = -9102017020286042305L;

@@ -10,7 +10,6 @@ import java.util.Map;
  * Author:GongJun
  * Date:2017/11/22
  * Time:11:34
- * Chinawiserv Technologies Co., Ltd.
  */
 public class test {
     @Test

@@ -6,7 +6,6 @@ package com.gongjun.test.Java序列化与反序列化;
  * Author:GongJun
  * Date:2018/3/16
  * Time:15:58
- * Chinawiserv Technologies Co., Ltd.
  */
 
 import java.io.Serializable;

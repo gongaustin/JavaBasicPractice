@@ -13,7 +13,6 @@ import java.util.Set;
  * Author:GongJun
  * Date:2018/1/19
  * Time:14:55
- * Chinawiserv Technologies Co., Ltd.
  */
 public class test
 {

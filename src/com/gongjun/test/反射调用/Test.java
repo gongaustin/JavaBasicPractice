@@ -11,7 +11,6 @@ import java.util.Arrays;
  * Author:GongJun
  * Date:2017/11/6
  * Time:10:44
- * Chinawiserv Technologies Co., Ltd.
  */
 public class Test {
     public static void main(String[] args) {

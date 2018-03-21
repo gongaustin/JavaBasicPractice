@@ -6,7 +6,6 @@ package com.gongjun.test.接口和抽象类的比较;
  * Author:GongJun
  * Date:2018/3/12
  * Time:9:42
- * Chinawiserv Technologies Co., Ltd.
  */
 /**
  * 抽象类可以实现接口，也可以继承抽象类

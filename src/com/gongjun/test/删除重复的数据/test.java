@@ -6,7 +6,6 @@ package com.gongjun.test.删除重复的数据;
  * Author:GongJun
  * Date:2017/9/6
  * Time:15:50
- * Chinawiserv Technologies Co., Ltd.
  */
 public class test {
 

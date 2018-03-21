@@ -10,7 +10,6 @@ import java.lang.reflect.Proxy;
  * Author:GongJun
  * Date:2018/3/16
  * Time:10:42
- * Chinawiserv Technologies Co., Ltd.
  */
 //测试类
 public class AOPTest {

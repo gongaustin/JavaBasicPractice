@@ -8,7 +8,6 @@ import org.junit.jupiter.api.Test;
  * Author:GongJun
  * Date:2018/3/7
  * Time:17:52
- * Chinawiserv Technologies Co., Ltd.
  */
 
 /**

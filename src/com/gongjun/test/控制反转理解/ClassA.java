@@ -6,7 +6,6 @@ package com.gongjun.test.控制反转理解;
  * Author:GongJun
  * Date:2017/8/15
  * Time:11:07
- * Chinawiserv Technologies Co., Ltd.
  */
 public class ClassA {
     InterfaceA a;

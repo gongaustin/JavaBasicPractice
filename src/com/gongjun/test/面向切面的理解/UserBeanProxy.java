@@ -9,7 +9,6 @@ import java.lang.reflect.Method;
  * Author:GongJun
  * Date:2018/3/16
  * Time:10:40
- * Chinawiserv Technologies Co., Ltd.
  */
 //代理类
 public class UserBeanProxy implements InvocationHandler {

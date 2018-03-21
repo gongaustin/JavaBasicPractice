@@ -6,7 +6,6 @@ package com.gongjun.test.枚举练习;
  * Author:GongJun
  * Date:2018/3/7
  * Time:15:37
- * Chinawiserv Technologies Co., Ltd.
  */
 public enum AttributeEnum {
     A("A", "this is A"),

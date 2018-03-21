@@ -8,7 +8,6 @@ import org.junit.jupiter.api.Test;
  * Author:GongJun
  * Date:2018/3/7
  * Time:16:10
- * Chinawiserv Technologies Co., Ltd.
  */
 public class Implementation extends Constructor{
     /**

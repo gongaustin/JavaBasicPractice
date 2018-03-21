@@ -8,7 +8,6 @@ import java.io.Serializable;
  * Author:GongJun
  * Date:2018/3/9
  * Time:10:50
- * Chinawiserv Technologies Co., Ltd.
  */
 public class Car implements Serializable {
 

@@ -8,7 +8,6 @@ import java.util.Arrays;
  * Author:GongJun
  * Date:2017/9/7
  * Time:14:47
- * Chinawiserv Technologies Co., Ltd.
  */
 public class test {
     //******************Java基本类型****************

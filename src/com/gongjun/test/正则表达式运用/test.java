@@ -9,7 +9,6 @@ import org.junit.jupiter.api.Test;
  * Author:GongJun
  * Date:2017/12/1
  * Time:15:15
- * Chinawiserv Technologies Co., Ltd.
  */
 public class test {
     @Test

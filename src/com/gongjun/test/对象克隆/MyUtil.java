@@ -11,7 +11,6 @@ import java.io.ObjectOutputStream;
  * Author:GongJun
  * Date:2018/3/9
  * Time:10:48
- * Chinawiserv Technologies Co., Ltd.
  */
 public class MyUtil {
     private MyUtil() {

@@ -6,7 +6,6 @@ package com.gongjun.test.对象克隆;
  * Author:GongJun
  * Date:2018/3/9
  * Time:10:50
- * Chinawiserv Technologies Co., Ltd.
  */
 public class CloneTest {
     public static void main(String[] args) {

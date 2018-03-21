@@ -6,7 +6,6 @@ package com.gongjun.test.匿名内部类详解;
  * Author:GongJun
  * Date:2018/3/13
  * Time:15:12
- * Chinawiserv Technologies Co., Ltd.
  */
 /**
  * 1、匿名内部类因为没有类名，可知匿名内部类不能定义构造器。

@@ -9,7 +9,6 @@ import java.util.concurrent.Executors;
  * Author:GongJun
  * Date:2017/8/15
  * Time:14:38
- * Chinawiserv Technologies Co., Ltd.
  */
 public class ExecutorsTheadPool {
     ExecutorService staticTheadPool = Executors.newFixedThreadPool(10);

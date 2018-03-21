@@ -6,7 +6,6 @@ package com.gongjun.test.接口默认方法;
  * Author:GongJun
  * Date:2017/8/11
  * Time:11:27
- * Chinawiserv Technologies Co., Ltd.
  */
 public class methodA {
     public static void main(String[] args) {

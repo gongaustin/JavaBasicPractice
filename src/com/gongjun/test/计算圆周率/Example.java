@@ -6,7 +6,6 @@ package com.gongjun.test.计算圆周率;
  * Author:GongJun
  * Date:2017/11/24
  * Time:17:46
- * Chinawiserv Technologies Co., Ltd.
  */
 import java.util.Scanner;
 public class Example {

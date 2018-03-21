@@ -6,7 +6,6 @@ package com.gongjun.test.发牌纸牌游戏;
  * Author:GongJun
  * Date:2018/3/8
  * Time:17:41
- * Chinawiserv Technologies Co., Ltd.
  */
 public class PokerTest {
     public static void main(String[] args) {

@@ -6,7 +6,6 @@ package com.gongjun.test.面向切面的理解;
  * Author:GongJun
  * Date:2018/3/16
  * Time:10:37
- * Chinawiserv Technologies Co., Ltd.
  */
 //原始实现类
 public class UserBeanImpl implements UserBean {
