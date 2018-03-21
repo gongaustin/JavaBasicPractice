@@ -28,7 +28,8 @@ public class Test {
             Object instanceTwo = constructorTwo.newInstance();
             Person person = (Person)instanceOne;
             System.out.println(person.getName());
-            System.out.println(instanceTwo);
+            ((Person)instanceTwo).setName("Lee");  //强制转换后赋值
+            System.out.println(((Person)instanceTwo).getName());  //读取
         } catch (Exception e) {
             e.printStackTrace();
         }

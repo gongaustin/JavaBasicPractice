@@ -28,8 +28,8 @@ package com.gongjun.test.匿名内部类详解;
  * 6、内部类可以访问外部类私有变量和方法。
  * */
 public class Outer {
-    public static String s1 = "this is s1 in Outer";
-    public static String s2 = "this is s2 in Outer";
+    private static String s1 = "this is s1 in Outer";
+    private static String s2 = "this is s2 in Outer";
     private static String s3 = "this is s3 in Outer";
 
     private static String method2() {
@@ -40,7 +40,6 @@ public class Outer {
         Outer outer = new Outer();
         // 测试1，Inner为接口
         outer.method1(new Inner() {
-            String s1 = "this is s1 in Inner";
 
             public String say() {
                 // 外部类和匿名函数类中有同名变量s1
@@ -49,7 +48,6 @@ public class Outer {
         });
         // 测试2，Inner1为抽象类
         outer.method1(new Inner1() {
-            String s2 = "this is s2 in Inner1";
 
             public String say() {
                 // 外部类和匿名函数类中有同名变量s2
